@@ -11,5 +11,5 @@ We further identified the top genes that were responsible for this enrichment an
 
 Out of these 8 genes, all of which seemed to have a relationship with either disease in literature, PPARD had a unique aspect. This gene is under-expressed in asthma and over-expressed in NSCLC. But, it was observed that patients with mixed cases of asthma and lung cancer had an increased expression. We hypothesize that this gene, and possibly other genes, could be used as a biomarker for early detection of lung cancer in severe asthma patients.
 
-####Contributors
+#### Contributors<br>
 Mirudhula Mukundan, Aditi Sarathy
